@@ -1,4 +1,4 @@
-# 🧥 HoodieShop
+# HoodieShop
 
 Boutique en ligne de hoodies développée avec **Vue.js 3**. Le site permet de parcourir un catalogue, filtrer les produits, choisir une couleur, remplir un panier et passer une commande.
 
